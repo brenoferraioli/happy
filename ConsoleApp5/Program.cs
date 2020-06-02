@@ -22,6 +22,8 @@ namespace ConsoleApp5
             Console.WriteLine(desconto);
 
             Console.ReadLine();
+            Console.ReadLine();
+
         }
     }
 }
